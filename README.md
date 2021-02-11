@@ -4,7 +4,18 @@ I'm a self motivated and passionate software developer
 
 ### I :heart: GitHub :octocat:
 
+
+- 🔭 I’m currently working on getting more stars on Hackerrank problem solving
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on anything that involves automation
+- 🤔 I’m looking for help with learning Algorithms and Data structure
+- 💬 Ask me about Javascript, Node and React
+- 📫 How to reach me: https://twitter.com/tosimiadesoye
+- 😄 Pronouns: None/She/Her
+- ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy
+
 ## Let's Connect :people_holding_hands:
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosimiadesoye&label=Views&color=blue&style=plastic" alt="tosimiadesoye" /> </p>
 
@@ -25,15 +36,6 @@ I'm a self motivated and passionate software developer
 <br/>
 <br/>
 
-
-- 🔭 I’m currently working on getting more stars on Hackerrank problem solving
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on anything that involves automation
-- 🤔 I’m looking for help with learning Algorithms and Data structure
-- 💬 Ask me about Javascript, Node and React
-- 📫 How to reach me: https://twitter.com/tosimiadesoye
-- 😄 Pronouns: None/She/Her
-- ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy
 
 [![Twitter: tosimiadeoye](https://img.shields.io/twitter/follow/tosimiadesoye?style=social)](https://twitter.com/tosimiadesoye)
 [![Linkedin: tosimiadeoye](https://img.shields.io/badge/-tosimiadesoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tosimia-desiye/)](https://www.linkedin.com/in/tosimi-adesoye/)
