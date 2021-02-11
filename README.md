@@ -12,7 +12,20 @@ I'm a self motivated and passionate software developer
 - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<tosimiadesoye>&theme=<pink>" />
+<a href="https://github.com/tosimiadesoye">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosimiadesoye&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/tosimiadesoye">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tosimiadesoye&show_icons=true&theme=dark&line_height=27" alt="tosimiadesoye's github stats"/>
+</a>
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tosimiadesoye&repo=FlutterExampleApps&theme=dark" />
+
+</a>
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tosimiadesoye&repo=VelocityX&theme=dark" />
+</a>
+
 <!--
 **tosimiadesoye/tosimiadesoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
