@@ -37,10 +37,6 @@ A self motivated and passionate software developer
 <br/>
 
 
-[![Twitter: tosimiadeoye](https://img.shields.io/twitter/follow/tosimiadesoye?style=social)](https://twitter.com/tosimiadesoye)
-[![Linkedin: tosimiadeoye](https://img.shields.io/badge/-tosimiadesoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tosimia-desiye/)](https://www.linkedin.com/in/tosimi-adesoye/)
-[![GitHub tosimiadesoye](https://img.shields.io/github/followers/tosimiadesoye?label=follow&style=social)](https://github.com/tosimiadesoye)
-
 
 <a href="https://github.com/tosimiadesoye">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosimiadesoye&theme=dark&hide_langs_below=1" />
