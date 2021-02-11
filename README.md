@@ -1,6 +1,6 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-I'm a self motivated and passionate software developer
+A self motivated and passionate software developer
 
 ### I :heart: GitHub :octocat:
 
