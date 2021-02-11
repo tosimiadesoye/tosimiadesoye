@@ -1,5 +1,24 @@
+## Hola, I'm [Tosimi Adesoye!](https://tosimiadesoye.live)   
 
-### Hi I'm Tosimi 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tosimiadesoye&label=Views&color=blue&style=plastic" alt="tosimiadesoye" /> </p>
+
+<a href="https://twitter.com/imthepk">
+  <img align="left" alt="Tosimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/tosimi-adesoye">
+  <img align="left" alt="Tosimi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/tosimiadesoye">
+  <img align="left" alt="tosimi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/tosimi-tech/">
+  <img align="left" alt="tosimi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
+
 I'm a self motivated and passionate software developer
 
 - 🔭 I’m currently working on getting more stars on Hackerrank problem solving
