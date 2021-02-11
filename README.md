@@ -19,7 +19,7 @@ I'm a self motivated and passionate software developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosimiadesoye&label=Views&color=blue&style=plastic" alt="tosimiadesoye" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/tosimiadesoye">
   <img align="left" alt="Tosimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/tosimi-adesoye">
