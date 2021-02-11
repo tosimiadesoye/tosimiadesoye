@@ -1,4 +1,10 @@
-## Hola, I'm [Tosimi Adesoye!](https://tosimiadesoye.live)   
+## Hello I'm Tosimi :sparkling_heart: 👋🏽
+
+I'm a self motivated and passionate software developer
+
+### I :heart: GitHub :octocat:
+
+## Let's Connect :people_holding_hands:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosimiadesoye&label=Views&color=blue&style=plastic" alt="tosimiadesoye" /> </p>
 
@@ -19,7 +25,6 @@
 <br/>
 <br/>
 
-I'm a self motivated and passionate software developer
 
 - 🔭 I’m currently working on getting more stars on Hackerrank problem solving
 - 🌱 I’m currently learning Python
