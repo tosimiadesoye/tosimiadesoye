@@ -29,7 +29,7 @@ I'm a self motivated and passionate software developer
   <img align="left" alt="tosimi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/tosimi-tech/">
+<a href="https://instagram.com/tosimi_tech/">
   <img align="left" alt="tosimi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
