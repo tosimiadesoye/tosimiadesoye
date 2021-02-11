@@ -12,8 +12,8 @@ I'm a self motivated and passionate software developer
 - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy
 
 [![Twitter: tosimiadeoye](https://img.shields.io/twitter/follow/tosimiadesoye?style=social)](https://twitter.com/tosimi-adesoye)
-[![Linkedin: tosimiadeoye](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tosimia-desiye/)](https://www.linkedin.com/in/tosimi-adesoye/)
-[![GitHub tosimiadeoye](https://img.shields.io/github/followers/tosimiadesoye?label=follow&style=social)](https://github.com/tosimiadesoye)
+[![Linkedin: tosimiadeoye](https://img.shields.io/badge/-tosimiadesoye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tosimia-desiye/)](https://www.linkedin.com/in/tosimi-adesoye/)
+[![GitHub tosimiadesoye](https://img.shields.io/github/followers/tosimiadesoye?label=follow&style=social)](https://github.com/tosimiadesoye)
 
 
 <a href="https://github.com/tosimiadesoye">
