@@ -10,7 +10,7 @@ A self motivated and passionate software developer
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with learning Algorithms and Data structure
 - 💬 Ask me about Javascript, Node and React
-- 📫 How to reach me: https://twitter.com/tosimiadesoye
+- 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >write me a message<a/>
 - 😄 Pronouns: None/She/Her
 <!-- - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy -->
 
