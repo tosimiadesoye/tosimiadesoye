@@ -12,7 +12,7 @@ A self motivated and passionate software developer
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: https://twitter.com/tosimiadesoye
 - 😄 Pronouns: None/She/Her
-- ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy
+<!-- - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy -->
 
 ## Let's Connect :people_holding_hands:
 
