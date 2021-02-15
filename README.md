@@ -1,6 +1,6 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-A self motivated and passionate Full Stack Developer, With focus on accessibility and user experience. Experienced in creating complete web application from scratch with backend API system. Have a hunger for improving my skills and always looking to improve my abilities and challenge myself
+A self motivated and passionate Full Stack Developer, With focus on accessibility and user experience. Experienced in creating complete web application from scratch with backend API system. Have a hunger for continues evolvement, growth and always looking to improve my abilities and challenge myself
 
 ### I :heart: GitHub :octocat:
 
