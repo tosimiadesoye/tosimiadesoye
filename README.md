@@ -1,6 +1,6 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-A self motivated and passionate software developer
+A self motivated and passionate Full Stack Developer, With focus on accessibility and user experience. Experienced in creating complete web application from scratch with backend API system. Have a hunger for improving my skills and always looking to improve my abilities and challenge myself
 
 ### I :heart: GitHub :octocat:
 
@@ -10,7 +10,7 @@ A self motivated and passionate software developer
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with learning Algorithms and Data structure
 - 💬 Ask me about Javascript, Node and React
-- 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >write me a message<a/>
+- 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >Hire me<a/>
 - 😄 Pronouns: None/She/Her
 <!-- - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy -->
 
