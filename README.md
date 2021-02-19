@@ -11,7 +11,7 @@ A self motivated and passionate Full Stack Developer, With focus on accessibilit
 - 🤔 I’m looking for help with learning Algorithms and Data structure
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >message me<a/>
-- 😄 Pronouns: None/She/Her
+- 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy -->
 
 ## Let's Connect :people_holding_hands:
