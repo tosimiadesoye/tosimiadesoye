@@ -1,14 +1,12 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-A self motivated and passionate Full Stack Developer, With focus on accessibility and user experience. Experienced in creating complete web application from scratch with backend API system. Have a hunger for continues evolvement, growth and always looking to improve my abilities and challenge myself
+I'm a Intelligent Automation Apprentice. Experienced in creating complete web application from scratch with backend API system. Have a hunger for continues evolvement, growth and always looking to improve my abilities and challenge myself
 
 ### I :heart: GitHub :octocat:
 
 
-- 🔭 I’m currently working on getting more stars on Hackerrank problem solving
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with learning Algorithms and Data structure
+- 🔭 I’m currently working on increasing mu contribution
+- 🌱 I’m currently learning Java
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >message me<a/>
 - 😄 Pronouns: She/Her
