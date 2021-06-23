@@ -5,7 +5,7 @@ I'm a Intelligent Automation Apprentice. Experienced in creating complete web ap
 ### I :heart: GitHub :octocat:
 
 
-- 🔭 I’m currently working on increasing mu contribution
+- 🔭 I’m currently working on increasing my github contribution
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >message me<a/>
