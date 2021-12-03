@@ -10,7 +10,7 @@ I'm a Intelligent Automation Apprentice. Experienced in creating complete web ap
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >message me<a/>
 - 😄 Pronouns: She/Her
-<!-- - ⚡ Fun fact: I love using code to bring my imaginations to life -->
+- I love using code to bring my imaginations to life 
 
 ## Let's Connect :people_holding_hands:
 
