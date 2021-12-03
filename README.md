@@ -6,11 +6,11 @@ I'm a Intelligent Automation Apprentice. Experienced in creating complete web ap
 
 
 - 🔭 I’m currently working on increasing my github contribution
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently building projects 
 - 💬 Ask me about Javascript, Node and React
 - 📫 How to reach me: <a href="mailto:tosimiadesoye111@gmail.com" >message me<a/>
 - 😄 Pronouns: She/Her
-<!-- - ⚡ Fun fact: Not sure this is a fun fact but I'm really really shy -->
+<!-- - ⚡ Fun fact: I love using code to bring my imaginations to life -->
 
 ## Let's Connect :people_holding_hands:
 
