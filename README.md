@@ -1,6 +1,6 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-I'm a Intelligent Automation Apprentice. Experienced in creating complete web application from scratch with backend API system. Have a hunger for continues evolvement, growth and always looking to improve my abilities and challenge myself
+Motivated Software Developer with extensive knowledge of React, JavaScript, HTML & CSS. Experience in development, testing, and debugging. With over 2 years of practical software development. I am skilled at contributing to Production and delivering software & automation that meets stakeholders requirements and keen to continue developing my skills and learn new software and technologies
 
 ### I :heart: GitHub :octocat:
 
