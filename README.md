@@ -1,6 +1,6 @@
 ## Hello I'm Tosimi :sparkling_heart: 👋🏽
 
-Motivated Software Developer with extensive knowledge of React, JavaScript, HTML & CSS. Experience in development, testing, and debugging. With over 2 years of practical software development. I am skilled at contributing to Production and delivering software & automation that meets stakeholders requirements and keen to continue developing my skills and learn new software and technologies
+Motivated Frontend Developer at Google with knowledge of React, Vue, Typescript, JavaScript, Node.js, HTML & CSS. Highly skilled at contributing to a project from prototyping to delivering software that meets stakeholders’ requirements. I am keen to continue developing my skills by learning new software development skills, techniques and am eager to take on innovative projects. 
 
 ### I :heart: GitHub :octocat:
 
